@@ -10,6 +10,7 @@ readme = "README.md"
 
 dependencies = [
     "jupyter>=1.1.1",
+    "numpy>=2.3.4",
     "pandas>=2.3.3",
 ]
 
